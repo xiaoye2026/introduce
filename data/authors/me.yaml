@@ -2,10 +2,10 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name: 
-  display: 小叶
-  given: 叶
-  family: 小
-  alternate: '小叶柠条'  
+  display: 小叶柠条
+  given: 
+  family: 
+  alternate: '小叶'  
   pronunciation: 'Caragana'  # Example: Wáng Wěi
   pronouns: lovely beauty
 postnominals:
