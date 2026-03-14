@@ -1,12 +1,12 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
-name:小叶
+name: 小叶
   display: Caragana
   given: 叶
   family: 小
   alternate: '小叶柠条'  
-  pronunciation: ''  # Example: Wáng Wěi
+  pronunciation: 'Caragana'  # Example: Wáng Wěi
   pronouns: lovely beauty
 postnominals:
   - 2026硕士
