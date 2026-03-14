@@ -1,7 +1,7 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
-name:
+name:小叶
   display: Caragana
   given: 叶
   family: 小
@@ -12,7 +12,7 @@ postnominals:
   - 2026硕士
 status:
   icon: "🌱"
-role: limeiao
+role: Caragana
 bio: |
   你好呀！我是小叶！🌱
   很高兴在茫茫人海中和你接通信号~💗
