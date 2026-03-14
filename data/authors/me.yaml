@@ -2,115 +2,106 @@ schema: hugoblox/author/v1
 slug: me
 is_owner: true
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
+  display: Caragana
+  given: 叶
+  family: 小
+  alternate: '小叶柠条'  
   pronunciation: ''  # Example: Wáng Wěi
-  pronouns: he/him
+  pronouns: lovely beauty
 postnominals:
-  - PhD
-  - MIEEE
+  - 2026硕士
 status:
-  icon: "☕️"
-role: Senior AI Research Scientist
+  icon: "🌱"
+role: limeiao
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  你好呀！我是小叶！🌱
+  很高兴在茫茫人海中和你接通信号~💗
+  我的人生目标是：赚大钱，环游世界！💰
+  敢想，敢做，敢试错；会改，会变，会成功！🎀
+  关关能过关关过，时时复盘事事新！🧸
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: 兰州大学
+    url: https://www.lzu.edu.cn/
+  - name: 中国科学院
+    url: https://www.cas.cn/
 
 links:
   - icon: at-symbol
-    url: mailto:alex.johnson@example.com
+    url: lima200202@163.com
     label: E-mail Me
   - icon: brands/x
-    url: https://x.com/example
+    url: https://x.com
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com
+
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - travel
+  - book
+  - fitness
+  - music
+  - game
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: 草学硕士
+    institution: 兰州大学
+    start: 2023-09-01
+    end: 2026-06-30
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+      生物、化学、农学交叉领域。香豆素在白花草木樨中的催化研究。项目负责人。党支部委员。
     button:
       text: Download dissertation
       url: /resume.pdf
       icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+  - degree: 草学学士
+    institution: 兰州大学
+    start: 2019-09-01
+    end: 2023-6-30
+
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: 项目负责人
+    org: 兰州大学
+    start: 2022-07-01
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
+     跨部门协同与谈判：对接沟通 9 个跨领域专家，进行资源整合，组织 8 场项目推进会，打破沟通壁垒，确保项目按节点推进。
+     解决方案设计：分析 200+篇文献，定位定位项目核心痛点与需求，独立设计 3 套全流程执行方案，数据验证方案可行性。
+   
     button:
       text: View portfolio
       url: /
       icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+  - role: 主创团队
+    org: The 2nd International Plant Breeding Course
+    start: 2025-08-01
+    end: 2025-12-31
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+     资源协调与关系维护：对接 17 个国家的 130+育种专家，建立标准化沟通机制与个性化服务，协调需求，进行跨文化沟通；
+     活动策划与现场管理：协助活动全流程落地执行，宣传设计、赞助商对接等环。制定应急预案与动态资源调度机制。
 
 skills:
   - name: Technical Skills
     items:
-      - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
-        level: 4
+      - label: AI IDE
+      - label: PRD
   - name: Research & Communication
     items:
       - label: Academic Writing
-        level: 5
       - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: Data Analysis & Research Figure
+
+
 
 languages:
   - name: English
-    level: 5
-    label: Native
-  - name: Spanish
-    level: 4
-    label: Fluent
+    level: 3
+
 
 awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
+  - title: 连续3年硕士研究生奖学金，连续3年本科优秀学生奖学金
+  - title: 连续3学年优秀学生三等奖学金
+  - title: 兰州大学2025“宏志助航”计划优秀学员
+  - title: 兰州大学2021暑期学校文化科技卫生“三下乡”社会实践活动优秀队员
